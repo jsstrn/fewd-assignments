@@ -87,6 +87,10 @@ header button {
     font-weight: 600;
 }
 
+.quote cite {
+    font-style: normal;
+}
+
 .cta {
     background-color: #f9e42e;
     text-align: center;
