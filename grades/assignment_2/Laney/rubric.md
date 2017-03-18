@@ -21,4 +21,4 @@ Project URL: [https://laneyjillq.github.io/landing-page/](https://laneyjillq.git
 | Style your text with the Google Fonts provided by your style guide                                                            |                                |                        |            ✓             |
 | Follow naming conventions, maintain consistency across .html and .css files and use best practices for naming IDs and Classes |                                |                        |            ✓             |
 | Indent nested elements to increase your code's readability                                                                    |                                |                        |            ✓             |
-| TOTAL: 9/10                                                                                                                  |                                |                        |                          |
+| TOTAL: 10/10                                                                                                                  |                                |                        |                          |
